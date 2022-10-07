@@ -1,0 +1,8 @@
+# C:\Users\<UserName>\.wslconfig
+
+[boot]
+systemd=true
+
+[wsl2]
+memory=2GB
+swap=0
